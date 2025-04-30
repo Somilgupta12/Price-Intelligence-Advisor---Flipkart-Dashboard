@@ -33,6 +33,5 @@ An interactive data visualization dashboard built using **Python** and **Tkinter
 
 ```bash
 ├── dashboardfinal.py           # Main application script
-├── dataset_ecomm/
-│   └── flipkart_cleaned.csv    # Dataset (must be available locally)
+├── flipkart_cleaned.csv    # Dataset (must be available locally)
 ├── README.md                   # Project documentation
